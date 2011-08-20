@@ -1,7 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=3485
-
-** Currently I only tested Linux and Mac OS X environment, so Windows is not supported ***
-
 What is this?
 ==================================
 phrase.vim support.
@@ -47,8 +43,3 @@ phrase from others with [vundle](https://github.com/gmarik/vundle)
 or [vim-pathogen](https://github.com/tpope/vim-pathogen).
 
 * [t9md/phrase-t9md](https://github.com/t9md/phrase-t9md)
-
-Latest Version
-----------------------------------
-http://github.com/t9md/vim-phrase
-
